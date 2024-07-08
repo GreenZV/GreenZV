@@ -1,6 +1,6 @@
 # Hello there! I'm GreenZV 🤘
 
-- 🌿 I'm a software developer, currently in my first year at ITMO University.
+- 🌿 I'm a software engineer, currently in my first year at ITMO University.
 - 🔭 I'm currently working on several of my projects.
 - 🌱 I’m currently learning C#.
 - 🤝 I’m looking to collaborate on anything interesting.
