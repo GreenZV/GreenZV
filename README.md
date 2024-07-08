@@ -5,7 +5,7 @@
 </div>
 
 ### 🧠 Languages:
-<div id="tools" align="center">
+<div id="languages" align="center">
   <img src="https://github.com/GreenZV/GreenZV/blob/main/images/C.svg" alt="C" height="50">
   <img src="https://github.com/GreenZV/GreenZV/blob/main/images/C++.svg" alt="C++" height="50">
   <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Python.svg" alt="Python" height="50">
@@ -43,7 +43,7 @@
 </div>
 
 ### 📣 Social networks:
-<div id="tools" align="center">
+<div id="networks" align="center">
   <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Discord.svg" alt="Discord" height="50">
   <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Facebook.svg" alt="Facebook" height="50">
   <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Twitter_B.svg#gh-light-mode-only" alt="GitHub" height="50">
@@ -53,11 +53,11 @@
 </div>
 
 ### 🔥  GitHub Stats:
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=greenzv&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=greenzv&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=greenzv&theme=dark&hide_border=true&background=FFFFFF00">
-</p>
+<div id="stats" align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=greenzv&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000" alt="Stats" height="50%">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=greenzv&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=6&" alt="Langs" height="50%">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=greenzv&theme=merko&hide_border=true&background=FFFFFF00" alt="Streak">
+</div>
 
 <!--
 **GreenZV/GreenZV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
