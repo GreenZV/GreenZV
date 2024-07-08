@@ -1,55 +1,71 @@
-<div align="center">
-  
-## Hello there! 🤘
+# Hello there! I'm GreenZV 🤘
 
-</div>
+- 🌿 I'm a software developer, currently in my first year at ITMO University.
+- 🔭 I'm currently working on several of my projects.
+- 🌱 I’m currently learning C#.
+- 🤝 I’m looking to collaborate on anything interesting.
 
+## Some information about me
 ### 🧠 Languages:
-<div id="languages" align="center">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/C.svg" alt="C" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/C++.svg" alt="C++" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Python.svg" alt="Python" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Latex_B.svg#gh-light-mode-only" alt="Latex" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Latex_W.svg#gh-dark-mode-only" alt="Latex" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Markdown_B.svg#gh-light-mode-only" alt="Markdown" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Markdown_W.svg#gh-dark-mode-only" alt="Markdown" height="50">
+<div id="languages">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/C.svg" alt="C" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/C++.svg" alt="C++" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Python.svg" alt="Python" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Latex_B.svg#gh-light-mode-only" alt="Latex" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Latex_W.svg#gh-dark-mode-only" alt="Latex" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Markdown_B.svg#gh-light-mode-only" alt="Markdown" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Markdown_W.svg#gh-dark-mode-only" alt="Markdown" height="40">
 </div>
 
 ### 💻 Technologies & Tools:
-<div id="tools" align="center">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/3DS_Max.svg" alt="3DS Max" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Fusion.svg" alt="Fusion" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/AutoCAD.svg" alt="AutoCAD" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Adobe_Photoshop.svg" alt="Adobe Photoshop" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Adobe_Lightroom.svg" alt="Adobe Lightroom" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Adobe_Illustrator.svg" alt="Adobe Illustrator" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Xcode.svg" alt="Xcode" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/VS_Code.svg" alt="VS Code" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Clion.svg" alt="Clion" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Pycharm.svg" alt="Pycharm" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Git.svg" alt="Git" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/GitHub_B.svg#gh-light-mode-only" alt="GitHub" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/GitHub_W.svg#gh-dark-mode-only" alt="GitHub" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/GitHub_Actions.svg" alt="GitHub Actions" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Logisim_Evolution.svg" alt="Logisim Evolution" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Apple_B.svg#gh-light-mode-only" alt="Apple" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Apple_W.svg#gh-dark-mode-only" alt="Apple" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Windows_11.svg" alt="Windows 11" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Linux.svg" alt="Linux" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Json.svg" alt="Json" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Bash.svg" alt="Bash" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/CMake.svg" alt="CMake" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Notion.svg" alt="Notion" height="50">
+<div id="tools">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/3DS_Max.svg" alt="3DS Max" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Fusion.svg" alt="Fusion" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/AutoCAD.svg" alt="AutoCAD" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Adobe_Photoshop.svg" alt="Adobe Photoshop" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Adobe_Lightroom.svg" alt="Adobe Lightroom" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Adobe_Illustrator.svg" alt="Adobe Illustrator" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Xcode.svg" alt="Xcode" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/VS_Code.svg" alt="VS Code" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Clion.svg" alt="Clion" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Pycharm.svg" alt="Pycharm" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Git.svg" alt="Git" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/GitHub_B.svg#gh-light-mode-only" alt="GitHub" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/GitHub_W.svg#gh-dark-mode-only" alt="GitHub" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/GitHub_Actions.svg" alt="GitHub Actions" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Logisim_Evolution.svg" alt="Logisim Evolution" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Apple_B.svg#gh-light-mode-only" alt="Apple" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Apple_W.svg#gh-dark-mode-only" alt="Apple" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Windows_11.svg" alt="Windows 11" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Linux.svg" alt="Linux" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Json.svg" alt="Json" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Bash.svg" alt="Bash" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/CMake.svg" alt="CMake" height="40">
+  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Notion.svg" alt="Notion" height="40">
 </div>
 
 ### 📣 Social networks:
-<div id="networks" align="center">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Discord.svg" alt="Discord" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Facebook.svg" alt="Facebook" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Twitter_B.svg#gh-light-mode-only" alt="GitHub" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Twitter_W.svg#gh-dark-mode-only" alt="GitHub" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Linkedin.svg" alt="Linkedin" height="50">
-  <img src="https://github.com/GreenZV/GreenZV/blob/main/images/StackOverflow.svg" alt="StackOverflow" height="50">
+<div id="networks">
+  <!--
+  <a href="">
+    <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Discord.svg" alt="Discord" height="40">
+  </a>
+  <a href="">
+    <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Facebook.svg" alt="Facebook" height="40">
+  </a>
+  <a href="">
+    <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Twitter_B.svg#gh-light-mode-only" alt="GitHub" height="40">
+  </a>
+  <a href="">
+    <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Twitter_W.svg#gh-dark-mode-only" alt="GitHub" height="40">
+  </a>
+  <a href="">
+    <img src="https://github.com/GreenZV/GreenZV/blob/main/images/Linkedin.svg" alt="Linkedin" height="40">
+  </a>
+  <a href="">
+    <img src="https://github.com/GreenZV/GreenZV/blob/main/images/StackOverflow.svg" alt="StackOverflow" height="40">
+  </a>
+  -->
 </div>
 
 ### 🔥  GitHub Stats:
