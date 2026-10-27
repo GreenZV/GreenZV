@@ -1,0 +1,94 @@
+{
+  "title": "Python, C++, and iOS experience",
+  "groups": [
+    {
+      "label": "PYTHON",
+      "items": [
+        {
+          "label": "Python",
+          "icon": ".github/readme/icons/python.svg"
+        },
+        {
+          "label": "FastAPI",
+          "icon": ".github/readme/icons/fastapi.svg"
+        },
+        {
+          "label": "Django",
+          "icon": ".github/readme/icons/django.svg"
+        },
+        {
+          "label": "PyTorch",
+          "icon": ".github/readme/icons/pytorch.svg"
+        },
+        {
+          "label": "TensorFlow",
+          "icon": ".github/readme/icons/tensorflow.svg"
+        }
+      ],
+      "notes": [
+        "Neural network development & training",
+        "Data: NumPy / pandas / SciPy / scikit-learn",
+        "Visualization & imaging: Matplotlib / Seaborn / OpenCV / Pillow",
+        "Web: Flask / SQLAlchemy / requests / aiohttp / httpx / asyncio",
+        "Tools: pytest / Jupyter Notebook / pip"
+      ]
+    },
+    {
+      "label": "C++",
+      "items": [
+        {
+          "label": "C++",
+          "icon": ".github/readme/icons/cplusplus.svg"
+        },
+        {
+          "label": "Qt",
+          "icon": ".github/readme/icons/qt.svg"
+        },
+        {
+          "label": "Boost",
+          "icon": ".github/readme/icons/boost.svg"
+        },
+        {
+          "label": "CMake",
+          "icon": ".github/readme/icons/cmake.svg"
+        },
+        {
+          "label": "OpenGL",
+          "icon": ".github/readme/icons/opengl.svg"
+        }
+      ],
+      "notes": [
+        "Libraries & parallelism: STL / nlohmann/json / OpenSSL / OpenMP",
+        "Testing: GoogleTest",
+        "Tools: Make / GCC / Clang / GDB / LLDB"
+      ]
+    },
+    {
+      "label": "iOS",
+      "items": [
+        {
+          "label": "Swift",
+          "icon": ".github/readme/icons/swift.svg"
+        },
+        {
+          "label": "Objective-C",
+          "icon": ".github/readme/icons/objectivec.svg"
+        },
+        {
+          "label": "UIKit",
+          "icon": ".github/readme/icons/uikit.svg"
+        },
+        {
+          "label": "SwiftUI",
+          "icon": ".github/readme/icons/swiftui.svg"
+        }
+      ],
+      "notes": [
+        "Core APIs & data: Foundation / Combine / Core Data",
+        "Animation, media & maps: Core Animation / AVFoundation / MapKit",
+        "Tools: Xcode / Swift Package Manager / CocoaPods"
+      ]
+    }
+  ],
+  "iconStyle": "monochrome"
+}

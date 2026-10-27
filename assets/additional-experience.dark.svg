@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="494" viewBox="0 0 900 494" role="img" aria-labelledby="title desc">
+<title id="title">Additional experience through personal projects and university studies</title>
+<desc id="desc">OTHER LANGUAGES: C, C#, Bash, JavaScript, TypeScript. WEB &amp; PLATFORMS: HTML, CSS, Node.js. DATA &amp; INTERFACES: MongoDB, MySQL, SQLite, SQL, REST, OpenAPI, Swagger, WebSocket, gRPC. SYSTEMS &amp; NETWORKING: Docker Compose, nginx, SSH, systemd, Nmap, Wireshark. ARCHITECTURE &amp; LOGIC: RISC-V, SystemVerilog, Icarus Verilog, Logisim-evolution. OTHER DEVELOPMENT TOOLS: Visual Studio, PyCharm, CLion, WebStorm, Rider, dotPeek, npm, NuGet. DESIGN &amp; MEDIA: Figma, Photoshop, Lightroom, Illustrator, Premiere Pro, After Effects. 3D &amp; CAD: Blender, Autodesk 3ds Max, AutoCAD, Autodesk Fusion. DOCUMENTATION: LaTeX, Markdown, Obsidian.</desc>
+<style>
+  text { font-family: Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; }
+
+  .title { fill: #267c35; font-size: 12px; }
+  .body { fill: #1f2328; font-size: 12px; }
+  .muted { fill: #59636e; font-size: 11px; }
+  .tool { fill: #267c35; font-size: 12px; }
+  .category { fill: #59636e; font-size: 11px; }
+  .label { fill: #1f2328; font-size: 14px; }
+  .notes { fill: #59636e; font-size: 12px; }
+  .logo { fill: #267c35; }
+  .border, .divider { stroke: #d1d9e0; }
+  @media all {
+  .title { fill: #89bc21; }
+  .body { fill: #c6d7ca; }
+  .muted { fill: #81948a; }
+  .tool { fill: #89bc21; }
+  .category { fill: #81948a; }
+  .label { fill: #c6d7ca; }
+  .notes { fill: #81948a; }
+  .logo { fill: #4eae25; }
+  .border, .divider { stroke: #2b4930; }
+  }
+</style>
+<g transform="translate(0 0)">
+<rect x=".5" y=".5" width="441" height="73" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">01 / OTHER LANGUAGES</text>
+<text x="20" y="52" class="body">C / C# / Bash / JavaScript / TypeScript</text>
+</g>
+<g transform="translate(458 0)">
+<rect x=".5" y=".5" width="441" height="73" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">02 / WEB &amp; PLATFORMS</text>
+<text x="20" y="52" class="body">HTML / CSS / Node.js</text>
+</g>
+<g transform="translate(0 90)">
+<rect x=".5" y=".5" width="441" height="93" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">03 / DATA &amp; INTERFACES</text>
+<text x="20" y="52" class="body">MongoDB / MySQL / SQLite / SQL / REST / OpenAPI /</text>
+<text x="20" y="72" class="body">Swagger / WebSocket / gRPC</text>
+</g>
+<g transform="translate(458 90)">
+<rect x=".5" y=".5" width="441" height="93" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">04 / SYSTEMS &amp; NETWORKING</text>
+<text x="20" y="52" class="body">Docker Compose / nginx / SSH / systemd / Nmap /</text>
+<text x="20" y="72" class="body">Wireshark</text>
+</g>
+<g transform="translate(0 200)">
+<rect x=".5" y=".5" width="441" height="93" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">05 / ARCHITECTURE &amp; LOGIC</text>
+<text x="20" y="52" class="body">RISC-V / SystemVerilog / Icarus Verilog /</text>
+<text x="20" y="72" class="body">Logisim-evolution</text>
+</g>
+<g transform="translate(458 200)">
+<rect x=".5" y=".5" width="441" height="93" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">06 / OTHER DEVELOPMENT TOOLS</text>
+<text x="20" y="52" class="body">Visual Studio / PyCharm / CLion / WebStorm / Rider /</text>
+<text x="20" y="72" class="body">dotPeek / npm / NuGet</text>
+</g>
+<g transform="translate(0 310)">
+<rect x=".5" y=".5" width="441" height="93" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">07 / DESIGN &amp; MEDIA</text>
+<text x="20" y="52" class="body">Figma / Photoshop / Lightroom / Illustrator /</text>
+<text x="20" y="72" class="body">Premiere Pro / After Effects</text>
+</g>
+<g transform="translate(458 310)">
+<rect x=".5" y=".5" width="441" height="93" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">08 / 3D &amp; CAD</text>
+<text x="20" y="52" class="body">Blender / Autodesk 3ds Max / AutoCAD / Autodesk</text>
+<text x="20" y="72" class="body">Fusion</text>
+</g>
+<g transform="translate(0 420)">
+<rect x=".5" y=".5" width="899" height="73" rx="8" fill="none" class="border"/>
+<text x="20" y="27" class="title">09 / DOCUMENTATION</text>
+<text x="20" y="52" class="body">LaTeX / Markdown / Obsidian</text>
+</g>
+</svg>

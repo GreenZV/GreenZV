@@ -1,0 +1,98 @@
+{
+  "title": "Additional experience through personal projects and university studies",
+  "groups": [
+    {
+      "label": "OTHER LANGUAGES",
+      "items": [
+        "C",
+        "C#",
+        "Bash",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "label": "WEB & PLATFORMS",
+      "items": [
+        "HTML",
+        "CSS",
+        "Node.js"
+      ]
+    },
+    {
+      "label": "DATA & INTERFACES",
+      "items": [
+        "MongoDB",
+        "MySQL",
+        "SQLite",
+        "SQL",
+        "REST",
+        "OpenAPI",
+        "Swagger",
+        "WebSocket",
+        "gRPC"
+      ]
+    },
+    {
+      "label": "SYSTEMS & NETWORKING",
+      "items": [
+        "Docker Compose",
+        "nginx",
+        "SSH",
+        "systemd",
+        "Nmap",
+        "Wireshark"
+      ]
+    },
+    {
+      "label": "ARCHITECTURE & LOGIC",
+      "items": [
+        "RISC-V",
+        "SystemVerilog",
+        "Icarus Verilog",
+        "Logisim-evolution"
+      ]
+    },
+    {
+      "label": "OTHER DEVELOPMENT TOOLS",
+      "items": [
+        "Visual Studio",
+        "PyCharm",
+        "CLion",
+        "WebStorm",
+        "Rider",
+        "dotPeek",
+        "npm",
+        "NuGet"
+      ]
+    },
+    {
+      "label": "DESIGN & MEDIA",
+      "items": [
+        "Figma",
+        "Photoshop",
+        "Lightroom",
+        "Illustrator",
+        "Premiere Pro",
+        "After Effects"
+      ]
+    },
+    {
+      "label": "3D & CAD",
+      "items": [
+        "Blender",
+        "Autodesk 3ds Max",
+        "AutoCAD",
+        "Autodesk Fusion"
+      ]
+    },
+    {
+      "label": "DOCUMENTATION",
+      "items": [
+        "LaTeX",
+        "Markdown",
+        "Obsidian"
+      ]
+    }
+  ]
+}

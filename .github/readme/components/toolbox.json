@@ -1,0 +1,28 @@
+{
+  "rows": [
+    [
+      "DEVELOPMENT",
+      "Coding and database tools.",
+      "IntelliJ IDEA / VS Code / DataGrip",
+      "IDE / editor / database tools"
+    ],
+    [
+      "API & DEBUGGING",
+      "Send requests and inspect program execution.",
+      "Postman / curl / GDB / LLDB",
+      "API tools / debuggers"
+    ],
+    [
+      "MODELING",
+      "Describe systems and create diagrams.",
+      "UML / PlantUML / Mermaid",
+      "Visual Paradigm"
+    ],
+    [
+      "ENVIRONMENTS",
+      "Operating systems I have worked with.",
+      "Linux / macOS / Windows",
+      "Arch / Ubuntu / Kali / CentOS"
+    ]
+  ]
+}

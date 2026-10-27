@@ -1,0 +1,109 @@
+{
+  "title": "Java backend stack",
+  "groups": [
+    {
+      "label": "BACKEND",
+      "items": [
+        {
+          "label": "Java",
+          "icon": ".github/readme/icons/java.svg"
+        },
+        {
+          "label": "Spring Boot",
+          "icon": ".github/readme/icons/springboot.svg"
+        },
+        {
+          "label": "Jakarta EE (Java EE)",
+          "icon": ".github/readme/icons/jakartaee.svg"
+        },
+        {
+          "label": "Hibernate",
+          "icon": ".github/readme/icons/hibernate.svg"
+        }
+      ],
+      "notes": [
+        "Spring MVC / Spring Security / Spring Data JPA",
+        "Testing: JUnit / Mockito / Testcontainers",
+        "Scheduling: Quartz"
+      ]
+    },
+    {
+      "label": "BUILD & VERSIONING",
+      "items": [
+        {
+          "label": "Maven",
+          "icon": ".github/readme/icons/maven.svg"
+        },
+        {
+          "label": "Gradle",
+          "icon": ".github/readme/icons/gradle.svg"
+        },
+        {
+          "label": "Git",
+          "icon": ".github/readme/icons/git.svg"
+        }
+      ]
+    },
+    {
+      "label": "DATA & MESSAGING",
+      "items": [
+        {
+          "label": "PostgreSQL",
+          "icon": ".github/readme/icons/postgresql.svg"
+        },
+        {
+          "label": "Redis",
+          "icon": ".github/readme/icons/redis.svg"
+        },
+        {
+          "label": "Kafka",
+          "icon": ".github/readme/icons/apachekafka.svg"
+        },
+        {
+          "label": "RabbitMQ",
+          "icon": ".github/readme/icons/rabbitmq.svg"
+        }
+      ],
+      "notes": [
+        "Migrations: Liquibase",
+        "Integration: Spring Kafka / Spring AMQP / gRPC Java"
+      ]
+    },
+    {
+      "label": "DELIVERY",
+      "items": [
+        {
+          "label": "Docker",
+          "icon": ".github/readme/icons/docker.svg"
+        },
+        {
+          "label": "Kubernetes",
+          "icon": ".github/readme/icons/kubernetes.svg"
+        },
+        {
+          "label": "Terraform",
+          "icon": ".github/readme/icons/terraform.svg"
+        },
+        {
+          "label": "GitHub Actions",
+          "icon": ".github/readme/icons/githubactions.svg"
+        }
+      ]
+    },
+    {
+      "label": "OBSERVABILITY",
+      "items": [
+        {
+          "label": "Prometheus",
+          "icon": ".github/readme/icons/prometheus.svg"
+        },
+        {
+          "label": "Grafana",
+          "icon": ".github/readme/icons/grafana.svg"
+        }
+      ],
+      "notes": "Logging: SLF4J"
+    }
+  ],
+  "iconStyle": "monochrome"
+}

@@ -1,0 +1,10 @@
+{
+  "focus": "Java backend development",
+  "direction": "Working toward an end-to-end development & deployment workflow.",
+  "steps": [
+    "build",
+    "test",
+    "deploy",
+    "observe"
+  ]
+}

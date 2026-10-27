@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="166" viewBox="0 0 900 166" role="img" aria-labelledby="title desc">
+<title id="title">Current focus — Java backend development</title>
+<desc id="desc">Working toward an end-to-end development &amp; deployment workflow. Focus areas: build, test, deploy, observe.</desc><style>
+  text { font-family: Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; }
+
+  .title { fill: #267c35; font-size: 14px; }
+  .body { fill: #1f2328; font-size: 13px; }
+  .muted { fill: #59636e; font-size: 11px; }
+  .tool { fill: #267c35; font-size: 12px; }
+  .category { fill: #59636e; font-size: 11px; }
+  .label { fill: #1f2328; font-size: 14px; }
+  .notes { fill: #59636e; font-size: 12px; }
+  .logo { fill: #267c35; }
+  .border, .divider { stroke: #d1d9e0; }
+  @media not all {
+  .title { fill: #89bc21; }
+  .body { fill: #c6d7ca; }
+  .muted { fill: #81948a; }
+  .tool { fill: #89bc21; }
+  .category { fill: #81948a; }
+  .label { fill: #c6d7ca; }
+  .notes { fill: #81948a; }
+  .logo { fill: #4eae25; }
+  .border, .divider { stroke: #2b4930; }
+  }
+</style>
+<rect x=".5" y=".5" width="899" height="165" rx="8" fill="none" class="border"/>
+<text x="22" y="31" class="title">$ now --focus</text>
+<text x="878" y="31" text-anchor="end" class="muted">CURRENT DIRECTION</text>
+<path d="M22 46H878" class="divider"/>
+<text x="450" y="81" text-anchor="middle" class="title" font-weight="600">&gt; Java backend development</text>
+<text x="450" y="105" text-anchor="middle" class="muted">Working toward an end-to-end development &amp; deployment workflow.</text>
+<text x="450" y="140" text-anchor="middle" class="body"><tspan class="tool">build</tspan><tspan class="muted"> -&gt; </tspan><tspan class="tool">test</tspan><tspan class="muted"> -&gt; </tspan><tspan class="tool">deploy</tspan><tspan class="muted"> -&gt; </tspan><tspan class="tool">observe</tspan></text>
+</svg>

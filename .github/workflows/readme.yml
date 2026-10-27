@@ -1,0 +1,66 @@
+name: Update README assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+  push:
+    branches: ['**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-assets-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Render banner
+        uses: GreenZV/readme-blocks/components/banner@main
+
+      - name: Render current focus
+        uses: GreenZV/readme-blocks/components/now@main
+
+      - name: Render contribution calendar
+        uses: GreenZV/readme-blocks/components/contribution@main
+
+      - name: Render projects
+        uses: GreenZV/readme-blocks/components/projects@main
+
+      - name: Render stack
+        uses: GreenZV/readme-blocks/components/stack@main
+
+      - name: Render experience
+        uses: GreenZV/readme-blocks/components/experience@main
+
+      - name: Render toolbox
+        uses: GreenZV/readme-blocks/components/toolbox@main
+
+      - name: Render additional technologies
+        uses: GreenZV/readme-blocks/components/more-technologies@main
+
+      - name: Render contacts
+        uses: GreenZV/readme-blocks/components/contact@main
+
+      - name: Save generated assets
+        run: |
+          for directory in .github/readme/components assets; do
+            if [ -d "$directory" ]; then
+              git add --all -- "$directory"
+            fi
+          done
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update README assets"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

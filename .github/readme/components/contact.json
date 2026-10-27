@@ -1,0 +1,15 @@
+{
+  "groups": [
+    {
+      "label": "CODE & COMMUNITY",
+      "items": [
+        {
+          "slug": "github",
+          "label": "GitHub",
+          "icon": ".github/readme/icons/github.svg"
+        }
+      ]
+    }
+  ],
+  "iconStyle": "monochrome"
+}
